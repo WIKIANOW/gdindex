@@ -6105,8 +6105,8 @@ function file_code(path) {
 </div>
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
-<script src="//cdn.jsdelivr.net/gh/WIKIANOW/gdindex@57fd04e20bab247af52e7815d80bcf69b984264c/js/ace.js"></script>
-<script src="//cdn.jsdelivr.net/gh/WIKIANOW/gdindex@57fd04e20bab247af52e7815d80bcf69b984264c/js/ext-language_tools.js"></script>
+<script src="//cdn.jsdelivr.net/gh/WIKIANOW/gdindex@a1cbaac2e06a22fe3a93978223f552c8e60c4a57/js/ace.js"></script>
+<script src="//cdn.jsdelivr.net/gh/WIKIANOW/gdindex@a1cbaac2e06a22fe3a93978223f552c8e60c4a57/js/ext-language_tools.js"></script>
 	`;
   $("#content").html(content);
   $.get(path, function (data) {
