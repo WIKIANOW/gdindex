@@ -5551,7 +5551,7 @@ function init() {
 		<div id="content" class="nexmoe-item"></div>
 	 	<div id="readme_md" class="mdui-typo nexmoe-item" style="display:none; padding: 20px 0;"></div>
   </div>
-  <div class="mdui-center mdui-text-center mdui-text-color-blue-grey-5001 dummyclass" style="margin-bottom: 20px">Copyright © 2021 <a href='https://www.wikianow.com/' target='_blank'>wikianow.com</a></div>
+  <div class="mdui-center mdui-text-center mdui-text-color-blue-grey-5001 dummyclass" style="margin-bottom: 20px">Copyright © 2021 <a href='https://www.filmmarkingpro.com/' target='_blank'>Filmmarking</a></div>
 </div>
 	`;
   $("body").html(html);
